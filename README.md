@@ -3,6 +3,11 @@ Final Project
 
 Goal: Analyze historical CAISO data and identify methods for determining "high demand days" and using FFT to determine cycles of energy trends.
 
+Python version: 3.9.7
+
+Getting started:
+If using caiso_data.csv provided, specify the path to the file. If rerunning the API to obtain caiso data, you can read_csv to your file. Subsequently, run all cells in order.
+
 Packages and Modules:
 - Numpy
 - Scipy
