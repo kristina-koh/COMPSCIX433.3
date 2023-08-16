@@ -6,7 +6,12 @@ Goal: Analyze historical CAISO data and identify methods for determining "high d
 Python version: 3.9.7
 
 Getting started:
-If using caiso_data.csv provided, specify the path to the file. If rerunning the API to obtain caiso data, you can read_csv to your file. Subsequently, run all cells in order.
+The csv file is too large to upload here. Go to the following link below to have it automatically downloaded. Rename the file or the read_csv line within the notebook. If rerunning the API to obtain caiso data, you can read_csv to your new file. Subsequently, run all cells in order.
+
+File download:
+{
+  "CAISOFile": "https://buildingviz-api.s3.amazonaws.com/output/caiso/all_20180410_20230801_401074.csv?AWSAccessKeyId=ASIAZHYIUUBGEZ3E5RIS&Signature=o5trgQNCvK%2FsFseCHVnXb5tQzYM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEKn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMSJIMEYCIQDGLywJDUbWq8FtVsinhphhGwodViOcVPaIT3EhcykTmAIhANLA7he39CVYh7GuA%2B6g5mVgEjnNM92UHIoX3g1LSeZoKvQCCGIQAhoMNjM1MTM2NDE3ODY4IgwwDoZehmrIUE%2BVhBMq0QJEatPVNgR7XE0kqeY6ag4rH4AGhU2ni9MZLGuVCpdJKTOARK8nIh3miBYCnR91t%2BOAdQ7uXUM5egwNHb2RXAcz0yV%2FkMytCXTEaLt49nzOLXotu8zddda4%2BuXah%2FQZ02DzcSNfLPDSpCo8FbIwyID5YSz1Igkd0vvlta7ENIFnaAWE2HNYD8P%2Fv3HAhgBI2s4L5ppuBjTky9dyO6JrQ0nyhXqHCMuyAFq%2Bs9Bnh2YYs2oE2Y6ydggli9cCW9JTFeoXakYM9b07rOnEf8f86ARlxI3BQlncqTA6Im0TJTBjvNhQeEBi7nftyY7iRNErbCYd%2Fh%2BBtM%2FIXL3E3a5CsgKKTLu0VitUWFwqzO3gX124B9q7q1ib1oOVHLueMwi9qlr29U%2F9wI1UMxoEU9jtpO%2B0z2gZtbvF93tGITExi%2Fh1DYPqCQ1ICHm2pm65LECmcbzXMLiG9KYGOp0BSo7IbeAG7TzdVAaYO3%2FLmmcjg2A5bnvR3ep6qsVelhVC29ZRSzT36shFYVZJHZztMNzfOTt6BOYDiEux0l4QR%2BRxRXcfYRC4X5Fha4%2BojzCHVyETM4aN6GmnHKqQ%2BDHvimaTEL%2FLWo2P7t7ReDTlWV6TQjfDh7DicvK6bSW%2BBrbe6HnLutrcmDtXesHs7mAh93t1zPOgMyRLiEnsNw%3D%3D&Expires=1692209824"
+}
 
 Packages and Modules:
 - Numpy
